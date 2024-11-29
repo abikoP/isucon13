@@ -1,0 +1,13 @@
+.github_
+.vscode
+bench
+development/*
+!development/etc
+docs
+envcheck
+frontend
+provisioning
+scripts
+validated
+webapp/*
+!webapp/rust
